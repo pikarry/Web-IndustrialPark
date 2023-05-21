@@ -1,0 +1,13 @@
+.custom-datepicker {
+  width: 220px;
+
+  & .MuiInputBase-root {
+    border-radius: 0.5rem;
+    height: 40px;
+    border-color: black;
+
+    & fieldset {
+      border-color: #3a466480;
+    }
+  }
+}
